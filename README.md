@@ -32,7 +32,7 @@ require(['your/path/crc.js'], function (crc) {
     var crc64 = crc.crc64; // coming soon
     // ...
 });
-
+```
 ## Example
 ```JavaScript
 crc32('The quick brown fox jumps over the lazy dog'); // 414fa339
