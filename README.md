@@ -3,8 +3,8 @@
 Simple CRC checksum functions for JavaScript(CRC-16 and CRC-32).
 
 ## Download
-[Compressed](https://github.com/Shyzuuu/js-crc-update/raw/main/crc.min.js)
-[Uncompressed](https://github.com/Shyzuuu/js-crc-update/raw/main/crc.js)
+Compressed: (https://github.com/Shyzuuu/js-crc-update/raw/main/crc.min.js)
+Uncompressed: (https://github.com/Shyzuuu/js-crc-update/raw/main/crc.js)
 
 ## Installation
 For node.js, you can use this command to install:
