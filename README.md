@@ -1,5 +1,5 @@
 # js-crc-update
-[![NPM](https://nodei.co/npm/js-crc-update.png?stars&downloads)](https://nodei.co/npm/js-crc-update/)  
+[![NPM](https://nodei.co/npm/js-crc-update.png)](https://nodei.co/npm/js-crc-update/)  
 Simple CRC checksum functions for JavaScript(CRC-16 and CRC-32).
 
 ## Download
