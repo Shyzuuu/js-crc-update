@@ -17,20 +17,17 @@ You could use like this:
 ```JavaScript
 crc16('Message to hash');
 crc32('Message to hash');
-crc64('Message to hash'); // coming soon
 ```
 If you use node.js, you should require the module first:
 ```JavaScript
 var crc16 = require('js-crc-update').crc16;
 var crc32 = require('js-crc-update').crc32;
-var crc64 = require('js-crc-update').crc64; // coming soon
 ```
 It supports AMD:
 ```JavaScript
 require(['your/path/crc.js'], function (crc) {
     var crc16 = crc.crc16;
     var crc32 = crc.crc32;
-    var crc64 = crc.crc64; // coming soon
     // ...
 });
 ```
